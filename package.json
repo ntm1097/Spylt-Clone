@@ -1,7 +1,6 @@
 {
   "name": "gsap-practice",
-  "homepage": "https://ntm1097.github.io/Spylt-Clone/"
-  "private": true,
+  "homepage": "https://ntm1097.github.io/Spylt-Clone/",
   "version": "0.0.0",
   "type": "module",
   "scripts": {

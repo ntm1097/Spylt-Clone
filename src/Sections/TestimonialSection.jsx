@@ -1,5 +1,5 @@
 import { useRef } from "react";
-import { cards } from "../constants";
+import { cards } from "../Constants";
 import { useGSAP } from "@gsap/react";
 import gsap from "gsap";
 

@@ -1,5 +1,5 @@
 import { useMediaQuery } from "react-responsive";
-import { nutrientLists } from "../constants";
+import { nutrientLists } from "../Constants";
 import { useEffect, useState } from "react";
 import { useGSAP } from "@gsap/react";
 import { SplitText } from "gsap/all";
